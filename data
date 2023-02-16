@@ -1,1 +1,2 @@
-# data - contains small amount of data such as output of analyses. Just make sure filesizes are <20 MB and total number of files (<20 MB) is limited. Best practice is to store and share data on Dropbox.
+# data - contains small amount of data such as output of analyses. 
+# Just make sure filesizes are <20 MB and total number of files (<20 MB) is limited. Best practice is to store and share data on Dropbox.
