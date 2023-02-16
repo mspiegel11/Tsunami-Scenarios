@@ -71,3 +71,18 @@ folium
 rasterio
 
 elevation (https://pypi.org/project/elevation/)
+
+
+### Misc Thoughts/Process
+use omnx to download adn create road networks for a specific area to start (maybe just florence area)
+
+merge this with elevation data from elevation python library
+
+reference oregon maps to see what areas are considered 'safe' from tsunami within this region
+
+use this information/numpy to calcualte travel times from within the bounding box to these regions
+
+plot that iformation, maybe try to use random number generatior to create more variabeles to see how that affects travel time
+
+figure out a way to use this code for the entire coast (if possible)
+
