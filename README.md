@@ -1,5 +1,6 @@
 
 ## Tsunami-Scenarios
+## names: Max Spiegel, 
 ### Exploring Tsunami Evacuation Times/Scenarios on the Oregon Coast
 
 ## Questions to explore
