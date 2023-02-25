@@ -1,7 +1,12 @@
 
 ## Tsunami-Scenarios
-## names: Max Spiegel, Anna Anton
+
+### Exploring Tsunami Evacuation Times/Scenarios on the Oregon Coast
+## names: Max Spiegel, Isaac Bell Anna Anton
+
 ### Summary: Exploring potenial Tsunami Evacuation Times/Scenarios at different cities along the Oregon Coast.
+
+=======
 
 ## Questions to explore
 #### What locations have the highest evacuation time to ‘tsunami-safe’ areas?
@@ -51,6 +56,9 @@ https://www.oregongeology.org/tsuclearinghouse/pubs-inumaps.htm
 “Beat the Wave”
 https://www.oregongeology.org/tsuclearinghouse/beatthewave.htm
 
+DOGAMI: Tsunami inundation scenarios for Oregon
+https://www.oregongeology.org/pubs/ofr/p-O-13-19.htm
+
 ## Python Libraries we need:
 
 numpy
@@ -72,10 +80,9 @@ folium
 rasterio
 
 elevation (https://pypi.org/project/elevation/)
+### Misc Thoughts/Process
 
-
-### Planned Methods
-use omnx to download adn create road networks for a specific area to start (maybe just florence area)
+use omnx to download and create road networks for study areas (Florence, Seaside and Coos Bay)
 
 merge this with elevation data from elevation python library
 
@@ -87,3 +94,6 @@ plot that iformation, maybe try to use random number generatior to create more v
 
 figure out a way to use this code for the entire coast (if possible)
 
+## Expected Outcomes
+
+We would expect to see evacuation times directly correlated to elevation. Areas closer to sea level likely have longer evacuation times than higher-elevation ones. Our initial results can be expected to be similar to DOGAMI's 'Beat the Wave' dataset, which maps the necessary speed for tsunami evacuation in each of the communities we are studying.
