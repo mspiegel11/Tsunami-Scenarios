@@ -2,7 +2,8 @@
 ## Tsunami-Scenarios
 
 ### Exploring Tsunami Evacuation Times/Scenarios on the Oregon Coast
-## names: Max Spiegel, Isaac Bell
+## names: Max Spiegel, Isaac Bell Anna Anton
+
 ### Summary: Exploring potenial Tsunami Evacuation Times/Scenarios at different cities along the Oregon Coast.
 
 =======
