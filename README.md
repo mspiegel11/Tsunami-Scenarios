@@ -1,6 +1,6 @@
 
 ## Tsunami-Scenarios
-## names: Max Spiegel, 
+## names: Max Spiegel, Anna Anton
 ### Summary: Exploring potenial Tsunami Evacuation Times/Scenarios at different cities along the Oregon Coast.
 
 ## Questions to explore
