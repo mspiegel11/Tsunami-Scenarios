@@ -1,6 +1,6 @@
 
 ## Tsunami-Scenarios
-## names: Max Spiegel, 
+## names: Max Spiegel, Isaac Bell
 ### Exploring Tsunami Evacuation Times/Scenarios on the Oregon Coast
 
 ## Questions to explore
@@ -50,6 +50,9 @@ https://www.oregongeology.org/tsuclearinghouse/pubs-inumaps.htm
 
 “Beat the Wave”
 https://www.oregongeology.org/tsuclearinghouse/beatthewave.htm
+
+DOGAMI: Tsunami inundation scenarios for Oregon
+https://www.oregongeology.org/pubs/ofr/p-O-13-19.htm
 
 ## Python Libraries we need:
 
