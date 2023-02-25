@@ -81,7 +81,7 @@ rasterio
 elevation (https://pypi.org/project/elevation/)
 ### Misc Thoughts/Process
 
-use omnx to download adn create road networks for a specific area to start (maybe just florence area)
+use omnx to download and create road networks for study areas (Florence, Seaside and Coos Bay)
 
 merge this with elevation data from elevation python library
 
@@ -93,3 +93,6 @@ plot that iformation, maybe try to use random number generatior to create more v
 
 figure out a way to use this code for the entire coast (if possible)
 
+## Expected Outcomes
+
+We would expect to see evacuation times directly correlated to elevation. Areas closer to sea level likely have longer evacuation times than higher-elevation ones. Our initial results can be expected to be similar to DOGAMI's 'Beat the Wave' dataset, which maps the necessary speed for tsunami evacuation in each of the communities we are studying.
