@@ -1,7 +1,7 @@
 
 ## Tsunami-Scenarios
 ## names: Max Spiegel, 
-### Exploring Tsunami Evacuation Times/Scenarios on the Oregon Coast
+### Summary: Exploring potenial Tsunami Evacuation Times/Scenarios at different cities along the Oregon Coast.
 
 ## Questions to explore
 #### What locations have the highest evacuation time to ‘tsunami-safe’ areas?
@@ -74,7 +74,7 @@ rasterio
 elevation (https://pypi.org/project/elevation/)
 
 
-### Misc Thoughts/Process
+### Planned Methods
 use omnx to download adn create road networks for a specific area to start (maybe just florence area)
 
 merge this with elevation data from elevation python library
