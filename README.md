@@ -31,6 +31,8 @@ Emergency Service Locations
 
 Populated vs Unpopulated areas
 
+Census Data
+
 ## Potential Problems/Considerations:
 
 Accounting for random variables 
@@ -41,6 +43,8 @@ How to simulate flooding via Python
 Machine Learning Model?
 
 Speed, mode of transportation in regards to evac. times. 
+
+The population of each town and compare that to how many evacuation sources there are.
 
 ## Useful Links
 
