@@ -63,6 +63,8 @@ https://www.oregongeology.org/tsuclearinghouse/beatthewave.htm
 DOGAMI: Tsunami inundation scenarios for Oregon
 https://www.oregongeology.org/pubs/ofr/p-O-13-19.htm
 
+Elevation Node HOWTO: https://github.com/gboeing/osmnx-examples/blob/v0.11/notebooks/12-node-elevations-edge-grades.ipynb
+
 ## Python Libraries we need:
 
 numpy
