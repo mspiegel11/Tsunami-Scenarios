@@ -103,3 +103,4 @@ figure out a way to use this code for the entire coast (if possible)
 ## Expected Outcomes
 
 We would expect to see evacuation times directly correlated to elevation. Areas closer to sea level likely have longer evacuation times than higher-elevation ones. Our initial results can be expected to be similar to DOGAMI's 'Beat the Wave' dataset, which maps the necessary speed for tsunami evacuation in each of the communities we are studying.
+https://stackoverflow.com/questions/50723854/networkx-finding-the-shortest-path-to-one-of-multiple-nodes-in-graph 
